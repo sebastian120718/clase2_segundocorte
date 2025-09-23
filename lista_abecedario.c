@@ -46,3 +46,5 @@ int main() {
     freeList(head);
     return 0;
 }
+
+// este codigo esta basado en el de char pero la lista es de abecedario no estrañar si le ve similitud al anterior
