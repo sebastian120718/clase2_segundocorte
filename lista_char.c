@@ -55,3 +55,4 @@ int main(){
 
 };
 
+//no olvidar compilar para dar prueba que funciona el codigo
